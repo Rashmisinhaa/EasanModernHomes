@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+			<meta name="keywords" content="Home Interior, Interior Designers,Chennai Home Decor, Interior Decoration, Home Renovation, Chennai Interior Design Services, Best Interior Designers, Interior Decorators, Residential Interior Design, Modern Interior Design, Chennai Home Furnishing, Custom Home Interiors, Luxury Interior Design, Interior Design Firm, Affordable Interior Design, Interior Design Solutions, Chennai Home Remodeling">
+		<meta name="description" content="At MagickHome, we are pioneers of modular interiors with over three decades of experience. We have established a strong reputation in the home interior segment by offering superior quality modular interior products. Our partnerships with leading giants like Menard’s, The Home Depot, and Lowe’s in North America make us a name to reckon with in the home improvement sector. We have multiple manufacturing facilities across the globe.">	<link href="assets/img/cropped-favicon-192x192.webp" rel="icon">
+	<title> Blogs | MagickHome - Full Home Interiors </title>
+			<base href="">
+		<link href="https://www.magickhome.com/india/assets/css/theme.min.css" rel="stylesheet">
+		<!-- <link href="assets/css/style.css?v=2" rel="stylesheet"> -->
+		<link href="https://www.magickhome.com/india/assets/css/style.css?v=4" rel="stylesheet">
+		<link href="https://www.magickhome.com/india/assets/css/owl.carousel.min.css" rel="stylesheet">
+		<!--link href="assets/css/icon.min.css" rel="stylesheet"-->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+		<!-- <link href="assets/css/responsive.css?v=2" rel="stylesheet"> -->
+		<link href="https://www.magickhome.com/india/assets/css/responsive.css?v=4" rel="stylesheet">
+		<link href="https://www.magickhome.com/india/assets/css/animate.min.css" rel="stylesheet">
+
+		<!-- Google Tag Manager -->
+		<script>
+			(function(w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start': new Date().getTime(),
+					event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-5MNQ68FG');
+		</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Meta Pixel Code -->
+		<script>
+			! function(f, b, e, v, n, t, s) {
+				if (f.fbq) return;
+				n = f.fbq = function() {
+					n.callMethod ?
+						n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq) f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window, document, 'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '256662873410287');
+			fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=256662873410287&ev=PageView&noscript=1" /></noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) --> <!--<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11329376546"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());   gtag('config', 'AW-11329376546'); </script>--></head>
+<style>
+	.fixed-size {
+		width: 100%;
+		height: 150px;
+	}
+</style>
+
+<body id="scrollbar">
+	<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MNQ68FG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- header section -->
+<!-- top-header -->
+<div class="bg-light4 py-2 fs-7 mobile-view-none">
+	<div class="container">
+		<div class="row justify-content-center align-items-center py-1">
+			<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-end">
+				<div class="d-inline-flex align-items-center me-4">
+					<i class="fa-solid fa-headset text-primary me-2"></i>
+					<a href="tel:1800 270 3068" class="text-decoration-none text-link">1800 270 3068 </a>
+				</div>
+				<div class="d-inline-flex align-items-center me-4 mobile-view-none">
+					<a class="rounded-0 border-0 border-end border-secondary px-3 text-primary" target="_blank" href="https://www.facebook.com/people/MagickHome-India/100092270903175/"><i class="fab fa-facebook-f"></i></a>
+					<a class="rounded-0 border-0 border-end border-secondary px-3 text-primary" target="_blank" href="https://www.youtube.com/@MagickHome_India"><i class="fab fa-youtube"></i></a>
+					<a class="rounded-0 border-0 border-end border-secondary px-3 text-primary" target="_blank" href="https://www.instagram.com/magickhome_india/"><i class="fab fa-instagram"></i></a>
+					<a class="rounded-0 px-3 text-primary" target="_blank" href="https://in.linkedin.com/company/magickhome-india"><i class="fab fa-linkedin"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- top-header /// -->
+	
+<!-- Navbar Start -->
+<div class="bg-secondary sticky-top">
+	<nav class="navbar navbar-expand-lg bg-secondary container p-0">
+		<a href="https://www.magickhome.com/" class="d-flex navbar-brand d-flex align-items-center">
+			<?xml version="1.0" encoding="UTF-8"?>
+			<svg class="header-logo px-3" height="68" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 340.55 140.85">
+				<defs>
+					<style>
+						.cls-1 {
+						letter-spacing: 0em;
+						}
+						.cls-2 {
+						fill: none;
+						}
+						.cls-2, .cls-3, .cls-4 {
+						stroke-width: 0px;
+						}
+						.cls-5 {
+						clip-path: url(https://www.magickhome.com/india/);
+						}
+						.cls-3 {
+						fill: #d34f00;
+						}
+						.cls-6 {
+						clip-path: url(https://www.magickhome.com/india/);
+						}
+						.cls-4, .cls-7 {
+						fill: #FFFFFF;
+						}
+						.cls-7 {
+						font-family: Montserrat-Bold, Montserrat;
+						font-size: 21.59px;
+						font-weight: 700;
+						}
+						.cls-8 {
+						letter-spacing: 0em;
+						}
+					</style>
+					<clipPath id="clippath">
+						<rect class="cls-2" x="6.83" y="9.36" width="326.89" height="86.7"/>
+					</clipPath>
+					<clipPath id="clippath-1">
+						<rect class="cls-2" x="-33.18" y="-27.1" width="406.91" height="160.38"/>
+					</clipPath>
+				</defs>
+				<g class="cls-6">
+					<path class="cls-3" d="M81.72,36.11l-33.3,33.3h18.84l19.52-19.51v32.83H20.16v-3.9l23.89-23.89-9.42-9.42-27.79,27.79v22.74h93.27v-59.94h-18.38ZM6.83,9.47v45.01l13.32-13.33v-18.36h10.58l13.31,13.31,9.42,9.42,4.71-4.71,18.02-18.02h10.58s8.28-.01,8.28-.01h-.01s5.06.01,5.06.01v-13.32h-29.42l-17.22,17.22-17.21-17.22H6.83Z"/>
+					<polygon class="cls-4" points="154.47 47.76 154.41 25.11 143.3 43.77 139.36 43.77 128.31 25.59 128.31 47.76 120.11 47.76 120.11 10.01 127.34 10.01 141.47 33.47 155.38 10.01 162.55 10.01 162.66 47.76 154.47 47.76"/>
+					<path class="cls-4" d="M193.78,39.67h-17.53l-3.34,8.09h-8.95l16.83-37.75h8.63l16.88,37.75h-9.17l-3.34-8.09ZM191.03,33.04l-5.99-14.45-5.99,14.45h11.97Z"/>
+					<g class="cls-5">
+						<path class="cls-4" d="M225.81,26.44h14.67v17.17c-2.05,1.55-4.42,2.73-7.12,3.56-2.69.83-5.41,1.24-8.14,1.24-3.92,0-7.44-.84-10.57-2.51-3.13-1.67-5.58-3.99-7.36-6.96-1.78-2.96-2.67-6.32-2.67-10.06s.89-7.09,2.67-10.06c1.78-2.96,4.25-5.28,7.42-6.96,3.17-1.67,6.72-2.51,10.68-2.51,3.31,0,6.31.56,9.01,1.67,2.7,1.12,4.96,2.74,6.79,4.85l-5.61,5.18c-2.7-2.84-5.95-4.26-9.76-4.26-2.41,0-4.55.5-6.42,1.51-1.87,1.01-3.33,2.43-4.37,4.26-1.04,1.83-1.56,3.94-1.56,6.31s.52,4.42,1.56,6.26c1.04,1.83,2.49,3.26,4.34,4.29,1.85,1.02,3.97,1.54,6.34,1.54,2.52,0,4.78-.54,6.8-1.62v-5h-6.69v-7.91Z"/>
+						<rect class="cls-4" x="245.88" y="10.01" width="8.74" height="37.75"/>
+						<path class="cls-4" d="M268.5,45.9c-3.11-1.67-5.56-3.99-7.33-6.96-1.78-2.97-2.67-6.32-2.67-10.06s.89-7.09,2.67-10.06c1.78-2.97,4.22-5.29,7.33-6.96,3.11-1.67,6.61-2.5,10.49-2.5,3.27,0,6.22.57,8.87,1.72,2.64,1.15,4.86,2.8,6.66,4.96l-5.61,5.18c-2.55-2.95-5.72-4.42-9.49-4.42-2.34,0-4.42.52-6.26,1.54-1.83,1.03-3.26,2.46-4.29,4.29-1.02,1.83-1.54,3.92-1.54,6.25s.52,4.42,1.54,6.26c1.03,1.83,2.46,3.26,4.29,4.29,1.83,1.03,3.92,1.54,6.26,1.54,3.77,0,6.94-1.49,9.49-4.48l5.61,5.18c-1.8,2.19-4.03,3.86-6.69,5.02-2.66,1.15-5.63,1.73-8.9,1.73-3.85,0-7.33-.84-10.43-2.51"/>
+						<polygon class="cls-4" points="311.45 32.93 306.38 38.21 306.38 47.76 297.7 47.76 297.7 10.01 306.38 10.01 306.38 27.65 323.1 10.01 332.81 10.01 317.17 26.83 333.72 47.76 323.53 47.76 311.45 32.93"/>
+						<polygon class="cls-3" points="154.77 57.58 154.77 95.35 146.03 95.35 146.03 79.87 128.87 79.87 128.87 95.35 120.13 95.35 120.13 57.58 128.87 57.58 128.87 72.47 146.03 72.47 146.03 57.58 154.77 57.58"/>
+						<path class="cls-3" d="M168.72,93.46c-3.15-1.69-5.61-4.02-7.39-6.99-1.78-2.97-2.67-6.3-2.67-10.01s.89-7.04,2.67-10.01c1.78-2.97,4.24-5.3,7.39-6.99,3.15-1.69,6.68-2.54,10.6-2.54s7.45.84,10.58,2.54c3.13,1.69,5.59,4.02,7.39,6.99,1.8,2.97,2.7,6.31,2.7,10.01s-.9,7.04-2.7,10.01c-1.8,2.97-4.27,5.3-7.39,6.99-3.13,1.69-6.66,2.54-10.58,2.54s-7.46-.84-10.6-2.54M185.37,87.02c1.8-1.03,3.21-2.46,4.24-4.29,1.02-1.83,1.54-3.92,1.54-6.26s-.52-4.42-1.54-6.26c-1.03-1.83-2.44-3.26-4.24-4.29-1.8-1.03-3.82-1.54-6.04-1.54s-4.25.51-6.04,1.54c-1.8,1.03-3.21,2.45-4.24,4.29-1.03,1.83-1.54,3.92-1.54,6.26s.51,4.43,1.54,6.26c1.02,1.83,2.43,3.26,4.24,4.29,1.8,1.03,3.81,1.54,6.04,1.54s4.24-.51,6.04-1.54"/>
+						<polygon class="cls-3" points="238.25 95.35 238.2 72.69 227.09 91.36 223.14 91.36 212.08 73.17 212.08 95.35 203.88 95.35 203.88 57.58 211.11 57.58 225.25 81.05 239.17 57.58 246.35 57.58 246.46 95.35 238.25 95.35"/>
+						<polygon class="cls-3" points="281.96 88.34 281.96 95.36 252.71 95.36 252.71 57.58 281.26 57.58 281.26 64.59 261.4 64.59 261.4 72.8 278.94 72.8 278.94 79.6 261.4 79.6 261.4 88.34 281.96 88.34"/>
+					</g>
+				</g>
+				<text class="cls-7" transform="translate(6.83 128.5)">
+					<tspan x="0" y="0">W</tspan>
+					<tspan class="cls-1" x="25.11" y="0">h</tspan>
+					<tspan x="40.16" y="0">e</tspan>
+					<tspan class="cls-8" x="53.78" y="0">r</tspan>
+					<tspan x="62.89" y="0">e Design Meets Delight</tspan>
+				</text>
+			</svg>
+		</a>
+		<button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+		<i class="fa-solid fa-bars"></i>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarCollapse">
+			<div class="navbar-nav ms-auto">
+				<div class="nav-item dropdown">
+					<a href="https://www.magickhome.com/india/offerings" class="nav-link dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="">Offerings</a>
+					<div class="dropdown-menu dropdown-large bg-light shadow m-0" role="menu">
+						<div class="row justify-content-center align-items-center">
+							<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+								<div class="">
+									<a href="https://www.magickhome.com/india/modular-interiors" class="dropdown-item" >Modular Interiors</a>
+									<a href="https://www.magickhome.com/india/home-decor" class="dropdown-item" >Furniture and Decor</a>
+									<a href="https://www.magickhome.com/india/on-site-services" class="dropdown-item border-0" >On-site Services</a> 
+								</div>
+							</div>
+							<div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-12 border-start">
+								<div class="">
+									<div class="d-flex">
+										<div class="text-center">
+										    <a href="https://www.magickhome.com/india/kitchen" class="small megacontent text-decoration-none">
+											<img src="https://www.magickhome.com/india/assets/img/kitchen-header.webp" class="rounded img-fluid" alt="kitchen">
+											<p class="mt-2 m-0">Modular Kitchen</p></a>
+										</div>
+										<div class="text-center mx-3">
+										    <a href="https://www.magickhome.com/india/wardrobe" class="small megacontent text-decoration-none"> 
+											<img src="https://www.magickhome.com/india/assets/img/wardrobe-header.webp" class="rounded img-fluid" alt="wardrobe">
+											<p class="mt-2 m-0">Modular Wardrobe</p></a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a href="https://www.magickhome.com/india/about" class="nav-item nav-link" >About Us</a>
+				<a href="https://www.magickhome.com/india/design-ideas" class="nav-item nav-link" >Design Ideas</a>
+				<a href="https://www.magickhome.com/india/how-it-works" class="nav-item nav-link" >How it Works</a>
+				<div class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="">Cities</a>
+					<div class="dropdown-menu bg-light shadow m-0" aria-labelledby="dropdownMenuButton">
+						<a href="https://www.magickhome.com/india/coimbatore" class="dropdown-item border-0" >Coimbatore</a>
+					</div>
+				</div>
+				<div class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="">More</a>
+					<div class="dropdown-menu bg-light shadow m-0" aria-labelledby="dropdownMenuButton">
+						<a href="https://www.magickhome.com/india/contact" class="dropdown-item " >Contact Us</a>
+						<a href="https://www.magickhome.com/india/blogs" class="dropdown-item border-0" style='color:#D34F00;font-weight:600;'>Blogs</a>
+					</div>
+				</div>
+			</div>
+			<a class="btn-primary rounded-0 border-radius-0 text-decoration-none ms-2 mobile-view-none" href="https://www.magickhome.com/india/quick-quote">Get Quick Quote <i class="fa-solid fa-caret-right ms-2"></i></a>
+		</div>
+	</nav>
+</div>
+<!-- Navbar End -->	<div class="breadcrump bg-light2 py-3">
+		<div class="container">
+			<div class="row d-flex justify-content-center align-items-center">
+				<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+					<p class="m-0"><a href="https://www.magickhome.com/" class="text-primary text-link fs-6">Home</a> <i class="fa-solid fa-angle-right mx-2 fs-7"></i> Blogs </a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="py-3">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/blogs/diwali/thumbnail.jpg" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">Making Your Home Social Media-Ready This Diwali: Snap, Share, Shine!</h4>
+							<p class="small mb-4">Diwali isn’t just about celebrating with lights and sweets—it's the perfect excuse to showcase your home at its festive best!</p>
+							<a href="https://www.magickhome.com/india/making-your-home-social-media-ready" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/diwali/thumbnail.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">Easy Hacks to Get Your Home Diwali-Ready in a Flash</h4>
+							<p class="small mb-4">Get your home Diwali-ready in a flash with these easy, stylish hacks! From vibrant entrances to cosy living spaces, discover simple decor tips that will light up your home and impress your guests. Ready to dive in?</p>
+							<a href="https://www.magickhome.com/india/easy-hacks-to-get-your-home-diwali-ready-in-a-flash" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/sliding-doors-hinged-doors/door.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">Sliding Doors vs. Hinged Doors – Which One’s Right for You?</h4>
+							<p class="small mb-4">Choosing between sliding and hinged doors? Discover which style saves space, adds elegance, and suits your home perfectly in our ultimate door showdown!</p>
+							<a href="https://www.magickhome.com/india/sliding-doors-vs-hinged-doors-which-one-is-right-for-you" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/blogs/reason-modular-interior/reason-modular-interior-thumbnail.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">Revolutionizing Home Design: 4 Reasons Why Modular Interiors Outshine Traditional Approaches</h4>
+							<p class="small mb-4">Explore why modular interiors represent the future of interior design and how MagickHome is leading this transformative trend.</p>
+							<a href="https://www.magickhome.com/india/revolutionizing-home-design-4-reasons-why-modular-interiors-outshine-traditional-approaches" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/blogs/warm-cozy/thumbanil-warm-cozy.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">Warm & Cozy Home Interior Design Trends for Creating Inviting Spaces This Monsoon/Winter 2024</h4>
+							<p class="small mb-4">We’re halfway through 2024 and the monsoon days are here knocking on our doors. </p>
+							<a href="https://www.magickhome.com/india/warm-cozy-home-interior-design-trends-for-creating-inviting-spaces-this-monsoon-winter-2024" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/modern-bedroom.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">5 Affordable and Modern Designs for Your Bedroom</h4>
+							<p class="small mb-4">Your bedroom design need not cost a bomb. To give a professional touch to your bedroom decor, check out these interesting tips on how to get it right. Read on…</p>
+							<a href="https://www.magickhome.com/india/5-affordable-and-aodern-designs-for-your-bedroom" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/cost-modular-kitchen.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">What Is the Cost of Building a Modular Kitchen?</h4>
+							<p class="small mb-4">Don't let the cost of a modular kitchen for your home interiors hold you back. We can guide you towards your dream kitchen without breaking the bank. Read on…</p>
+							<a href="https://www.magickhome.com/india/what-is-the-cost-of-building-a-modular-kitchen" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/maintain-modular-kitchen.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">How to maintain your modular kitchen: 10 tips</h4>
+							<p class="small">Our kitchen experiences a variety of daily activities, and it is only natural that frequent cooking can lead to a dirty kitchen. Here are some helpful tips to ensure your kitchen remains clean and well-maintained.Read on…</p>
+							<a href="https://www.magickhome.com/india/how-to-maintain-your-modular-kitchen-10-tips" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/decor-home-interior-ideas.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">5 Summer Home Interior Ideas to delight your senses</h4>
+							<p class="small">Want to give your home a cool look this summer? Make your living room summer-appealing with these interesting end-to-end home interior ideas. Read on…</p>
+							<a href="https://www.magickhome.com/india/create-a-summer-oasis-in-your-living-room-with-5-refreshing-decor-ideas" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/open-and-closed-kitchen.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">How to Decide Between an Open and Closed Kitchen?</h4>
+							<p class="small">Can’t decide on a kitchen style yet? Use this article as a guide to understanding the advantages and disadvantages of open and closed-style kitchens. Read on…</p>
+							<a href="https://www.magickhome.com/india/how-to-decide-between-an-open-and-closed-kitchen" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/modular-kitchen-ideas.webp" class="img-fluid" alt="" title="">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">5 Modular Kitchen Ideas for Your New Home</h4>
+							<p class="small">Wonder how to make the most of your kitchen space? Take inspiration from the 5 modular kitchen design ideas listed in this article. Read on… </p>
+							<a href="https://www.magickhome.com/india/5-modular-kitchen-ideas-for-your-new-home" class="btn-primary-1 px-3 py-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/home-interior-design-ideas.webp" class="img-fluid">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">10 Home Interior Design Ideas to Look Out For in 2023</h4>
+							<p class="small">To breathe life into your dull home décor, check out the 2023 design ideas. Read on for tips to give your home interior an elegant and eye-catching look. Read on…</p>
+							<a href="https://www.magickhome.com/india/10-home-interior-design-ideas-to-look-out-for-in-2023" class="btn-primary-1 p-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/wardrobe-for-your-bedroom.webp" class="img-fluid">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">How to choose the right kind of wardrobe for your bedroom?</h4>
+							<p class="small">For people who are about to buy a wardrobe and don’t know how to do it, this article will come in handy. Read on…</p>
+							<a href="https://www.magickhome.com/india/how-to-choose-the-right-kind-of-wardrobe-for-your-bedroom" class="btn-primary-1 p-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 my-3">
+					<div class="p-3 bg-white shadow h-100">
+						<img src="https://www.magickhome.com/india/assets/img/thumbnail/bathroom-designs-small-space.webp" class="img-fluid">
+						<div class="py-3">
+							<h4 class="fs-5 fw-6">5 Best Bathroom Designs for A Small Space</h4>
+							<p class="small">A small bathroom has its limitation. However, you can do exciting things with your space to create an elegant décor. To find out how to achieve this look, read on…</p>
+							<a href="https://www.magickhome.com/india/5-best-bathroom-designs-for-a-small-space" class="btn-primary-1 p-2 rounded-0 border-radius-0 text-decoration-none"> Read More <i class="fa-solid fa-caret-right ms-2"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<!-- // footer section -->
+	<div class="section-footer pt-5 pb-2 bg-dark" id="">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> The Company </h3>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/about" class="text-footer">About MagickHome </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/blogs" class="text-footer">Blog </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/how-it-works" class="text-footer">How it Works </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/privacy-policy" class="text-footer">Privacy Policy </a></p>
+				</div>
+				<div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> Design Ideas </h3>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/modular-kitchen-designs" class="text-footer">Kitchen</a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/modular-wardrobe-designs" class="text-footer">Wardrobe</a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/living-room" class="text-footer">Living Room </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/bedroom" class="text-footer">Bed Room </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/dining-room" class="text-footer">Dining Room </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/balcony" class="text-footer">Balcony</a></p>
+				</div>
+				<div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> Need Help? </h3>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/contact" class="text-footer">Contact Us </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/quick-quote" class="text-footer">Quick Quote</a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/appoinment-booking" class="text-footer">Appointment Booking</a></p>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> Office Address</h3>
+					<p class="mb-2 fw-6 text-white"> MagickHome </p>
+					<p class="mb-2 text-footer"> IndiQube Viceroy, Sardar Patel Road, Near Rajbhavan, Little Mount, Guindy, Chennai, Tamil Nadu, India. 600 032. </p>
+					<p class="mt-4"> <img src="https://www.magickhome.com/india/assets/img/footer-phone-icon.svg" class="img-fluid px-2 text-primary" /> <a href="tel:18002703068" class="text-footer"> 1800 270 3068 </a> </p>
+					<p class="mt-1"> <img src="https://www.magickhome.com/india/assets/img/footer-email-icon.svg" class="img-fluid px-2" /> <a href="https://www.magickhome.com/cdn-cgi/l/email-protection#3347525f58475c4640735e52545a50585b5c5e561d505c5e09" class="text-footer"> <span class="__cf_email__" data-cfemail="5c283d30372833292f1c313d3b353f3734333139723f3331">[email&#160;protected]</span> </a> </p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- footer section // -->
+	<!-- // copyright section -->
+	<div class="section-copyright bg-dark">
+		<div class="container">
+			<div class="row pt-4">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 py-2">
+					<p class="fs-7 mb-0 text-light1">Copyright @ 2024 All Rights Reserved by MagickHome. </p>
+				</div>
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 py-2">
+					<p class="align-right-text">
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://www.facebook.com/people/MagickHome-India/100092270903175/"> <i class="fa-brands fa-facebook"></i> </a>
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://www.instagram.com/magickhome_india/"> <i class="fa-brands fa-instagram"></i></a>
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://www.youtube.com/@MagickHome_India"> <i class="fa-brands fa-youtube"></i></a>
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://in.linkedin.com/company/magickhome-india"> <i class="fa-brands fa-linkedin"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- // back-to-top section
+	<a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa-solid fa-caret-up"></i></a> 
+	<p class="icon-bar-social text-center"><a href="#" class="whatsapp" title="whatsapp"><img src="assets/img/whatsapp.png" width="60" height="60" class="icon-whatsapp"></a></p>-->
+
+	<!-- // modal poup youtube video play -->
+
+
+	<!-- <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content p-0">
+				<div class="modal-header">
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body p-0">
+					<iframe width="100%" height="350" src="https://www.youtube-nocookie.com/embed/7oipGXpjhHQ?si=hoWMf29AiGsz4fhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+	</div> -->
+
+	<script data-cfasync="false" src="https://www.magickhome.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.google.com/recaptcha/enterprise.js?render=6LfXd4kpAAAAAJk1rFom-E2DZ9r1HtAI8siwhxnZ"></script>			
+		
+		<!-- JavaScript Libraries -->
+		<script src="https://www.magickhome.com/india/assets/js/jquery.min.js"></script>
+		<script src="https://www.magickhome.com/india/assets/js/theme.min.js"></script>
+		<script src="https://www.magickhome.com/india/assets/js/wow.min.js"></script> 
+		<script src="https://www.magickhome.com/india/assets/js/owl.carousel.min.js"></script>
+		<script src="https://www.magickhome.com/india/assets/js/main.js"></script>
+	 
+	 
+		
+		<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fe90f47793f179e',t:'MTczNjMwNjUxMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

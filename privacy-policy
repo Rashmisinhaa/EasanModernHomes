@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+				<meta name="keywords" content="Home Interior, Interior Designers,Chennai Home Decor, Interior Decoration, Home Renovation, Chennai Interior Design Services, Best Interior Designers, Interior Decorators, Residential Interior Design, Modern Interior Design, Chennai Home Furnishing, Custom Home Interiors, Luxury Interior Design, Interior Design Firm, Affordable Interior Design, Interior Design Solutions, Chennai Home Remodeling">
+		<meta name="description" content="At MagickHome, we are pioneers of modular interiors with over three decades of experience. We have established a strong reputation in the home interior segment by offering superior quality modular interior products. Our partnerships with leading giants like Menard’s, The Home Depot, and Lowe’s in North America make us a name to reckon with in the home improvement sector. We have multiple manufacturing facilities across the globe.">		<link href="assets/img/cropped-favicon-192x192.webp" rel="icon">
+		<title> Privacy Policy | MagickHome - Full Home Interiors </title>
+				<base href="">
+		<link href="https://www.magickhome.com/india/assets/css/theme.min.css" rel="stylesheet">
+		<!-- <link href="assets/css/style.css?v=2" rel="stylesheet"> -->
+		<link href="https://www.magickhome.com/india/assets/css/style.css?v=4" rel="stylesheet">
+		<link href="https://www.magickhome.com/india/assets/css/owl.carousel.min.css" rel="stylesheet">
+		<!--link href="assets/css/icon.min.css" rel="stylesheet"-->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+		<!-- <link href="assets/css/responsive.css?v=2" rel="stylesheet"> -->
+		<link href="https://www.magickhome.com/india/assets/css/responsive.css?v=4" rel="stylesheet">
+		<link href="https://www.magickhome.com/india/assets/css/animate.min.css" rel="stylesheet">
+
+		<!-- Google Tag Manager -->
+		<script>
+			(function(w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start': new Date().getTime(),
+					event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-5MNQ68FG');
+		</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Meta Pixel Code -->
+		<script>
+			! function(f, b, e, v, n, t, s) {
+				if (f.fbq) return;
+				n = f.fbq = function() {
+					n.callMethod ?
+						n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq) f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window, document, 'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '256662873410287');
+			fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=256662873410287&ev=PageView&noscript=1" /></noscript>
+		<!-- End Meta Pixel Code -->
+
+		<!-- Google tag (gtag.js) --> <!--<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11329376546"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());   gtag('config', 'AW-11329376546'); </script>-->	</head>
+	<body id="scrollbar">
+		<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MNQ68FG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- header section -->
+<!-- top-header -->
+<div class="bg-light4 py-2 fs-7 mobile-view-none">
+	<div class="container">
+		<div class="row justify-content-center align-items-center py-1">
+			<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-end">
+				<div class="d-inline-flex align-items-center me-4">
+					<i class="fa-solid fa-headset text-primary me-2"></i>
+					<a href="tel:1800 270 3068" class="text-decoration-none text-link">1800 270 3068 </a>
+				</div>
+				<div class="d-inline-flex align-items-center me-4 mobile-view-none">
+					<a class="rounded-0 border-0 border-end border-secondary px-3 text-primary" target="_blank" href="https://www.facebook.com/people/MagickHome-India/100092270903175/"><i class="fab fa-facebook-f"></i></a>
+					<a class="rounded-0 border-0 border-end border-secondary px-3 text-primary" target="_blank" href="https://www.youtube.com/@MagickHome_India"><i class="fab fa-youtube"></i></a>
+					<a class="rounded-0 border-0 border-end border-secondary px-3 text-primary" target="_blank" href="https://www.instagram.com/magickhome_india/"><i class="fab fa-instagram"></i></a>
+					<a class="rounded-0 px-3 text-primary" target="_blank" href="https://in.linkedin.com/company/magickhome-india"><i class="fab fa-linkedin"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- top-header /// -->
+	
+<!-- Navbar Start -->
+<div class="bg-secondary sticky-top">
+	<nav class="navbar navbar-expand-lg bg-secondary container p-0">
+		<a href="https://www.magickhome.com/" class="d-flex navbar-brand d-flex align-items-center">
+			<?xml version="1.0" encoding="UTF-8"?>
+			<svg class="header-logo px-3" height="68" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 340.55 140.85">
+				<defs>
+					<style>
+						.cls-1 {
+						letter-spacing: 0em;
+						}
+						.cls-2 {
+						fill: none;
+						}
+						.cls-2, .cls-3, .cls-4 {
+						stroke-width: 0px;
+						}
+						.cls-5 {
+						clip-path: url(https://www.magickhome.com/india/);
+						}
+						.cls-3 {
+						fill: #d34f00;
+						}
+						.cls-6 {
+						clip-path: url(https://www.magickhome.com/india/);
+						}
+						.cls-4, .cls-7 {
+						fill: #FFFFFF;
+						}
+						.cls-7 {
+						font-family: Montserrat-Bold, Montserrat;
+						font-size: 21.59px;
+						font-weight: 700;
+						}
+						.cls-8 {
+						letter-spacing: 0em;
+						}
+					</style>
+					<clipPath id="clippath">
+						<rect class="cls-2" x="6.83" y="9.36" width="326.89" height="86.7"/>
+					</clipPath>
+					<clipPath id="clippath-1">
+						<rect class="cls-2" x="-33.18" y="-27.1" width="406.91" height="160.38"/>
+					</clipPath>
+				</defs>
+				<g class="cls-6">
+					<path class="cls-3" d="M81.72,36.11l-33.3,33.3h18.84l19.52-19.51v32.83H20.16v-3.9l23.89-23.89-9.42-9.42-27.79,27.79v22.74h93.27v-59.94h-18.38ZM6.83,9.47v45.01l13.32-13.33v-18.36h10.58l13.31,13.31,9.42,9.42,4.71-4.71,18.02-18.02h10.58s8.28-.01,8.28-.01h-.01s5.06.01,5.06.01v-13.32h-29.42l-17.22,17.22-17.21-17.22H6.83Z"/>
+					<polygon class="cls-4" points="154.47 47.76 154.41 25.11 143.3 43.77 139.36 43.77 128.31 25.59 128.31 47.76 120.11 47.76 120.11 10.01 127.34 10.01 141.47 33.47 155.38 10.01 162.55 10.01 162.66 47.76 154.47 47.76"/>
+					<path class="cls-4" d="M193.78,39.67h-17.53l-3.34,8.09h-8.95l16.83-37.75h8.63l16.88,37.75h-9.17l-3.34-8.09ZM191.03,33.04l-5.99-14.45-5.99,14.45h11.97Z"/>
+					<g class="cls-5">
+						<path class="cls-4" d="M225.81,26.44h14.67v17.17c-2.05,1.55-4.42,2.73-7.12,3.56-2.69.83-5.41,1.24-8.14,1.24-3.92,0-7.44-.84-10.57-2.51-3.13-1.67-5.58-3.99-7.36-6.96-1.78-2.96-2.67-6.32-2.67-10.06s.89-7.09,2.67-10.06c1.78-2.96,4.25-5.28,7.42-6.96,3.17-1.67,6.72-2.51,10.68-2.51,3.31,0,6.31.56,9.01,1.67,2.7,1.12,4.96,2.74,6.79,4.85l-5.61,5.18c-2.7-2.84-5.95-4.26-9.76-4.26-2.41,0-4.55.5-6.42,1.51-1.87,1.01-3.33,2.43-4.37,4.26-1.04,1.83-1.56,3.94-1.56,6.31s.52,4.42,1.56,6.26c1.04,1.83,2.49,3.26,4.34,4.29,1.85,1.02,3.97,1.54,6.34,1.54,2.52,0,4.78-.54,6.8-1.62v-5h-6.69v-7.91Z"/>
+						<rect class="cls-4" x="245.88" y="10.01" width="8.74" height="37.75"/>
+						<path class="cls-4" d="M268.5,45.9c-3.11-1.67-5.56-3.99-7.33-6.96-1.78-2.97-2.67-6.32-2.67-10.06s.89-7.09,2.67-10.06c1.78-2.97,4.22-5.29,7.33-6.96,3.11-1.67,6.61-2.5,10.49-2.5,3.27,0,6.22.57,8.87,1.72,2.64,1.15,4.86,2.8,6.66,4.96l-5.61,5.18c-2.55-2.95-5.72-4.42-9.49-4.42-2.34,0-4.42.52-6.26,1.54-1.83,1.03-3.26,2.46-4.29,4.29-1.02,1.83-1.54,3.92-1.54,6.25s.52,4.42,1.54,6.26c1.03,1.83,2.46,3.26,4.29,4.29,1.83,1.03,3.92,1.54,6.26,1.54,3.77,0,6.94-1.49,9.49-4.48l5.61,5.18c-1.8,2.19-4.03,3.86-6.69,5.02-2.66,1.15-5.63,1.73-8.9,1.73-3.85,0-7.33-.84-10.43-2.51"/>
+						<polygon class="cls-4" points="311.45 32.93 306.38 38.21 306.38 47.76 297.7 47.76 297.7 10.01 306.38 10.01 306.38 27.65 323.1 10.01 332.81 10.01 317.17 26.83 333.72 47.76 323.53 47.76 311.45 32.93"/>
+						<polygon class="cls-3" points="154.77 57.58 154.77 95.35 146.03 95.35 146.03 79.87 128.87 79.87 128.87 95.35 120.13 95.35 120.13 57.58 128.87 57.58 128.87 72.47 146.03 72.47 146.03 57.58 154.77 57.58"/>
+						<path class="cls-3" d="M168.72,93.46c-3.15-1.69-5.61-4.02-7.39-6.99-1.78-2.97-2.67-6.3-2.67-10.01s.89-7.04,2.67-10.01c1.78-2.97,4.24-5.3,7.39-6.99,3.15-1.69,6.68-2.54,10.6-2.54s7.45.84,10.58,2.54c3.13,1.69,5.59,4.02,7.39,6.99,1.8,2.97,2.7,6.31,2.7,10.01s-.9,7.04-2.7,10.01c-1.8,2.97-4.27,5.3-7.39,6.99-3.13,1.69-6.66,2.54-10.58,2.54s-7.46-.84-10.6-2.54M185.37,87.02c1.8-1.03,3.21-2.46,4.24-4.29,1.02-1.83,1.54-3.92,1.54-6.26s-.52-4.42-1.54-6.26c-1.03-1.83-2.44-3.26-4.24-4.29-1.8-1.03-3.82-1.54-6.04-1.54s-4.25.51-6.04,1.54c-1.8,1.03-3.21,2.45-4.24,4.29-1.03,1.83-1.54,3.92-1.54,6.26s.51,4.43,1.54,6.26c1.02,1.83,2.43,3.26,4.24,4.29,1.8,1.03,3.81,1.54,6.04,1.54s4.24-.51,6.04-1.54"/>
+						<polygon class="cls-3" points="238.25 95.35 238.2 72.69 227.09 91.36 223.14 91.36 212.08 73.17 212.08 95.35 203.88 95.35 203.88 57.58 211.11 57.58 225.25 81.05 239.17 57.58 246.35 57.58 246.46 95.35 238.25 95.35"/>
+						<polygon class="cls-3" points="281.96 88.34 281.96 95.36 252.71 95.36 252.71 57.58 281.26 57.58 281.26 64.59 261.4 64.59 261.4 72.8 278.94 72.8 278.94 79.6 261.4 79.6 261.4 88.34 281.96 88.34"/>
+					</g>
+				</g>
+				<text class="cls-7" transform="translate(6.83 128.5)">
+					<tspan x="0" y="0">W</tspan>
+					<tspan class="cls-1" x="25.11" y="0">h</tspan>
+					<tspan x="40.16" y="0">e</tspan>
+					<tspan class="cls-8" x="53.78" y="0">r</tspan>
+					<tspan x="62.89" y="0">e Design Meets Delight</tspan>
+				</text>
+			</svg>
+		</a>
+		<button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+		<i class="fa-solid fa-bars"></i>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarCollapse">
+			<div class="navbar-nav ms-auto">
+				<div class="nav-item dropdown">
+					<a href="https://www.magickhome.com/india/offerings" class="nav-link dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="">Offerings</a>
+					<div class="dropdown-menu dropdown-large bg-light shadow m-0" role="menu">
+						<div class="row justify-content-center align-items-center">
+							<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+								<div class="">
+									<a href="https://www.magickhome.com/india/modular-interiors" class="dropdown-item" >Modular Interiors</a>
+									<a href="https://www.magickhome.com/india/home-decor" class="dropdown-item" >Furniture and Decor</a>
+									<a href="https://www.magickhome.com/india/on-site-services" class="dropdown-item border-0" >On-site Services</a> 
+								</div>
+							</div>
+							<div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-12 border-start">
+								<div class="">
+									<div class="d-flex">
+										<div class="text-center">
+										    <a href="https://www.magickhome.com/india/kitchen" class="small megacontent text-decoration-none">
+											<img src="https://www.magickhome.com/india/assets/img/kitchen-header.webp" class="rounded img-fluid" alt="kitchen">
+											<p class="mt-2 m-0">Modular Kitchen</p></a>
+										</div>
+										<div class="text-center mx-3">
+										    <a href="https://www.magickhome.com/india/wardrobe" class="small megacontent text-decoration-none"> 
+											<img src="https://www.magickhome.com/india/assets/img/wardrobe-header.webp" class="rounded img-fluid" alt="wardrobe">
+											<p class="mt-2 m-0">Modular Wardrobe</p></a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a href="https://www.magickhome.com/india/about" class="nav-item nav-link" >About Us</a>
+				<a href="https://www.magickhome.com/india/design-ideas" class="nav-item nav-link" >Design Ideas</a>
+				<a href="https://www.magickhome.com/india/how-it-works" class="nav-item nav-link" >How it Works</a>
+				<div class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="">Cities</a>
+					<div class="dropdown-menu bg-light shadow m-0" aria-labelledby="dropdownMenuButton">
+						<a href="https://www.magickhome.com/india/coimbatore" class="dropdown-item border-0" >Coimbatore</a>
+					</div>
+				</div>
+				<div class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="dropdownMenuButton" data-bs-toggle="">More</a>
+					<div class="dropdown-menu bg-light shadow m-0" aria-labelledby="dropdownMenuButton">
+						<a href="https://www.magickhome.com/india/contact" class="dropdown-item " >Contact Us</a>
+						<a href="https://www.magickhome.com/india/blogs" class="dropdown-item border-0" >Blogs</a>
+					</div>
+				</div>
+			</div>
+			<a class="btn-primary rounded-0 border-radius-0 text-decoration-none ms-2 mobile-view-none" href="https://www.magickhome.com/india/quick-quote">Get Quick Quote <i class="fa-solid fa-caret-right ms-2"></i></a>
+		</div>
+	</nav>
+</div>
+<!-- Navbar End -->		<div class="breadcrump bg-light2 py-3">
+			<div class="container">
+				<div class="row d-flex justify-content-center align-items-center">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+						<p class="m-0"><a href="https://www.magickhome.com/" class="text-primary text-link fs-6">Home</a> <i class="fa-solid fa-angle-right mx-2 fs-7"></i> Privacy Policy </a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="about-us py-4">
+			<div class="container">
+				<div class="row d-flex justify-content-start  wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h2 class="fs-4 fw-4">Privacy Policy</h2>
+						<p class="fw-4 fs-6"> The domain name magickhome.com/India or the website is owned by MagickHome and your use of the website and services and all tools are governed by these T&Cs as applicable to the website including the applicable policies which are incorporated herein by way of reference. If you transact on or visit the website, you shall be subject to the policies that are applicable to the website. This privacy policy sets out how MagickHome uses and protects any information that you give MagickHome when you use this website. MagickHome is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MagickHome may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. You are advised to read this Policy carefully. By accessing the services provided by MagickHome you agree to the collection and use of your data by MagickHome and certain authorized third-party service providers in the manner provided in this Policy. </p>
+						<h4 class="fw-4 fs-4">Our privacy policy describes:</h4>
+						<ul>
+							<li class="fw-4 pb-1 fs-6">What personal information about Customers do we collect</li>
+							<li class="fw-4 pb-1 fs-6">How and why we collect your personal information</li>
+							<li class="fw-4 pb-1 fs-6">Your personal information is protected and secure</li>
+							<li class="fw-4 pb-1 fs-6">How we use Cookies and</li>
+							<li class="fw-4 pb-1 fs-6">Controlling your personal information</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row d-flex justify-content-start border p-4 wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h4 class="fw-6 fs-5 mb-2"> 1. What personal information about Customers do we Collect:</h4>
+						<p class="fw-4 fs-6"> We choose to collect your personal information in order to provide and continually improve our products and services. Here are the types of personal information we collect: </p>
+						<p class="fw-4 fs-6"><span class="fw-7"> Information You Give Us:</span> We receive and store any information you provide while accessing our website. See below some examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Services. </p>
+						<ul>
+							<li class="fw-4 pb-1 fs-6">Name</li>
+							<li class="fw-4 pb-1 fs-6">Contact information including email address</li>
+							<li class="fw-4 pb-1 fs-6">Demographic information such as postcode, preferences, and interests</li>
+							<li class="fw-4 pb-1 fs-6">Other information relevant to customer surveys and/or offers</li>
+							<li class="fw-4 pb-1 fs-6">Language Preferences</li>
+						</ul>
+						<p class="fw-4 fs-6 mt-3"><span class="fw-7"> Automatic Information</span> We automatically collect and store certain types of information about your use of our website, including information about your interaction with content and services available through our website. Like many websites, we use cookies and other unique identifiers, and we obtain certain types of information when your web browser or device accesses MagickHome products. See below examples of what we collect.</p>
+						<ul>
+							<li class="fw-4 pb-1 fs-6">IP Address</li>
+							<li class="fw-4 pb-1 fs-6">Your mobile device information (e.g., device model, operating system version, device date and time, unique device identifiers, mobile network information)</li>
+							<li class="fw-4 pb-1 fs-6">The location of your device or computer</li>
+							<li class="fw-4 pb-1 fs-6">Version and time zone settings</li>
+						</ul>
+						<p class="fw-4 fs-6 mt-3"><span class="fw-7"> Information from Other Sources:</span> We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily. See below additional examples of the information we receive</p>
+						<ul>
+							<li class="fw-4 pb-1 fs-6">Account information, purchase or redemption information and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising or other services</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row d-flex justify-content-start border p-4 my-2 wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h4 class="fw-6 fs-5 mb-2"> 2. How and why we collect your personal information</h4>
+						<p class="fw-4 fs-6"> We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers. These purposes include:</p>
+						<ul>
+							<li class="fw-4 pb-1 fs-6"><span class="fw-7"> Purchase and delivery of products and services:</span> We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.</li>
+							<li class="fw-4 pb-1 fs-6"><span class="fw-7"> Provide, troubleshoot, and improve services:</span> We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of our services.</li>
+							<li class="fw-4 pb-1 fs-6"><span class="fw-7"> Recommendations and personalization:</span> We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with our services.</li>
+							<li class="fw-4 pb-1 fs-6"><span class="fw-7"> Communicate with you:</span> We use your personal information to communicate with you in relation to our Services via different channels (e.g., by phone, email, chat).</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="row d-flex justify-content-start border p-4 my-2 wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h4 class="fw-6 fs-5 mb-2">3. Your personal information is protected and secure</h4>
+						<p class="fw-4 fs-6"> We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. In accordance with applicable law, we maintain appropriate technical and organizational security measures designed to protect your personal information from accidental loss or destruction and from unauthorized access, misuse, alteration and disclosure, wherever it is stored or processed, including when personal information is transmitted over a private network or stored in cloud environments. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.</p>
+					</div>
+				</div>
+				<div class="row d-flex justify-content-start border p-4 my-2  wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h4 class="fw-6 fs-5 mb-2">4. How we use Cookies</h4>
+						<p class="fw-4 fs-6"> A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added, and the cookie helps analyzes web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyzes data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+					</div>
+				</div>
+				<div class="row d-flex justify-content-start border p-4 my-2 wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h4 class="fw-6 fs-5 mb-2">5. Controlling your personal information</h4>
+						<p class="fw-4 fs-6"> You may choose to restrict the collection or use of your personal information in the following ways</p>
+						<ul>
+							<li class="fw-4 pb-1 fs-6">Whenever you are asked to fill your personal details on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
+							<li class="fw-4 pb-1 fs-6">If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at<a href="https://www.magickhome.com/cdn-cgi/l/email-protection#e094818c8b948f9593a08d818789838b888f8d85ce838f8d"> <span class="__cf_email__" data-cfemail="4135202d2a352e3432012c202628222a292e2c246f222e2c">[email&#160;protected]</span></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="row d-flex justify-content-start border p-4 my-2 wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h3 class="mb-4">Cookie Policy</h3>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">1. What is a cookie?</h5>
+							<p class="fw-4 fs-6"> A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time. Most Internet browsers support cookies; however, users can set their browsers to decline certain types of cookies or specific cookies. Further, users can delete cookies at any time.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">2. Why do we use cookies?</h5>
+							<p class="fw-4 fs-6"> We use cookies to learn how you interact with our content and to improve your experience when visiting our website(s). For example, some cookies remember your language or preferences so that you do not have to repeatedly make these choices when you visit one of our websites. We also use cookies to help us with geolocation tracking in order to present you with the closest office locations or delivery priorities. We may employ the learnings of your behavior on our website(s) to serve you with targeted advertisements on third-party website(s) in an effort to “re-market” our products and services to you.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">3. What types of cookies do we use?</h5>
+							<p class="fw-4 fs-6"> We use first party cookies, session cookies and persistent cookies.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">4. First Party Cookies</h5>
+							<p class="fw-4 fs-6"> First-party cookies are cookies issued from the domain relating to this website that are generally used to identify language and location preferences or render basic site functionality.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">5. Session Cookies</h5>
+							<p class="fw-4 fs-6"> Session cookies are temporary cookies that are used to remember you during the course of your visit to the website, and they expire when you close the web browser.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">6. Persistent Cookies</h5>
+							<p class="fw-4 fs-6"> Persistent cookies are used to remember your preferences within the website and remain on your desktop or mobile device even after you close your browser or restart your computer. We use these cookies to analyze user behavior to establish visit patterns so that we can improve our website functionality for you and others who visit our website(s). These cookies also allow us to serve you with targeted advertising and measure the effectiveness of our site functionality and advertising.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">7. How are cookies used for advertising purposes?</h5>
+							<p class="fw-4 fs-6"> Cookies and ad technology such as web beacons, pixels, and anonymous ad network tags help us serve relevant ads to you more effectively. They also help us collect aggregated audit data, research, and performance reporting for advertisers. Pixels enable us to understand and improve the delivery of ads to you and know when certain ads have been shown to you. Since your web browser may request advertisements and web beacons directly from ad network servers, these networks can view, edit, or set their own cookies, just as if you had requested a web page from their site. Although we do not use cookies to create a profile of your browsing behavior on third-party sites, we do use aggregate data from third parties to show you relevant, interest-based advertising. We do not provide any personal information that we collect to advertisers. You can opt out of off-site and third-party informed advertising by adjusting your cookie settings. Opting out will not remove advertising from the pages you visit, but, instead, opting out will result in the ads you see not being matched to your interests. This implies that the ad(s) you see will not be matched to your interests by those specific cookies.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">8. How are third-party cookies used?</h5>
+							<p class="fw-4 fs-6"> For some of the functions within our websites we use third-party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third-party suppliers) may contain third-party cookies, and we encourage you to consult the privacy policies of these third-party vendors on their websites for information regarding their use of cookies.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2 text-blue1">9. How do I reject and delete cookies?</h5>
+							<p class="fw-4 fs-6"> You can choose to reject or block all or specific types of cookies set by virtue of your visit to this website by clicking on the cookie preferences on our website(s). You can change your preferences for this particular website and/or other websites including the websites of any third-party suppliers or related affiliates by changing your browser settings. Please note that most browsers automatically accept cookies. Therefore, if you do not wish cookies to be used, you may need to actively delete or block the cookies. If you reject the use of cookies, you will still be able to visit our websites but some of the functions may not work correctly. By using our website without deleting or rejecting some or all cookies, you agree that we can place those cookies that you have not deleted or rejected on your device.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row d-flex justify-content-start border p-4 my-2  wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h3 class="mb-3">Terms And Conditions</h3>
+						<p class="fw-4 fs-6"> This page states the Terms and Conditions under which you (Visitor) may visit this website (“website”). Please read this page carefully. If you do not accept the Terms and Conditions stated here, we would request you to exit this site. The business, any of its business divisions and / or its subsidiaries, associate companies or subsidiaries to subsidiaries or such other investment companies (in India or abroad) reserve their respective rights to revise these Terms and Conditions at any time by updating this posting. You should visit this page periodically to re-appraise yourself of the Terms and Conditions, because they are binding on all users of this website. USE OF CONTENT All logos, brands, marks headings, labels, names, signatures, numerals, shapes or any combinations thereof, appearing in this site, except as otherwise noted, are properties either owned, or used under license, by the business and / or its associate entities who feature on this website. The use of these properties or any other content on this site, except as provided in these terms and conditions or in the site content, is strictly prohibited. You may not sell or modify the content of this website or reproduce, display, publicly perform, distribute, or otherwise use the materials in any way for any public or commercial purpose without the respective organization’s or entity’s written permission. ACCEPTABLE website USE Security Rules Visitors are prohibited from violating or attempting to violate the security of the website, including, without limitation,</p>
+						<ul>
+							<li class="fw-4 pb-1 fs-6">Accessing data not intended for such user or logging into a server or account which the user is not authorized to access,</li>
+							<li class="fw-4 pb-1 fs-6">Attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization</li>
+							<li class="fw-4 pb-1 fs-6">Attempting to interfere with service to any user, host or network, including, without limitation, via means of submitting a virus to the website, overloading, “flooding”, “mail bombing” or “crashing”, or</li>
+							<li class="fw-4 pb-1 fs-6">Sending unsolicited electronic mail, including promotions and/or advertising of products or services.</li>
+						</ul>
+						<p class="fw-4 fs-6 mt-4">Violations of system or network security may result in civil or criminal liability. The business and / or its associate entities will have the right to investigate occurrences that they suspect as involving such violations and will have the right to involve, and cooperate with, law enforcement authorities in prosecuting users who are involved in such violations. General Rules Visitors may not use the website in order to transmit, distribute, store or destroy material (a) that could constitute or encourage conduct that would be considered a criminal offense or violate any applicable law or regulation, (b) in a manner that will infringe the copyright, trademark, trade secret or other intellectual property rights of others or violate the privacy or publicity of other personal rights of others, or (c) that is libelous, defamatory, pornographic, profane, obscene, threatening, abusive or hateful. INDEMNITY The User unilaterally agree to indemnify and hold harmless, without objection, the Company, its officers, directors, employees and agents from and against any claims, actions and/or demands and/or liabilities and/or losses and/or damages whatsoever arising from or resulting from their use of indygo10.com or their breach of the terms. LIABILITY User agrees that neither Company nor its group companies, directors, officers or employee shall be liable for any direct or/and indirect or/and incidental or/and special or/and consequential or/and exemplary damages, resulting from the use or/and the inability to use the service or/and for cost of procurement of substitute goods or/and services or resulting from any goods or/and data or/and information or/and services purchased or/and obtained or/and messages received or/and transactions entered into through or/and from the service or/and resulting from unauthorized access to or/and alteration of user’s transmissions or/and data or/and arising from any other matter relating to the service, including but not limited to, damages for loss of profits or/and use or/and data or other intangible, even if Company has been advised of the possibility of such damages. User further agrees that Company shall not be liable for any damages arising from interruption, suspension or termination of service, including but not limited to direct or/and indirect or/and incidental or/and special consequential or/and exemplary damages, whether such interruption or/and suspension or/and termination was justified or not, negligent or intentional, inadvertent or advertent. User agrees that Company shall not be responsible or liable to user, or anyone, for the statements or conduct of any third-party of the service. In sum, in no event shall Company’s total liability to the User for all damages or/and losses or/and causes of action exceed the amount paid by the User to Company, if any, that is related to the cause of action. DISCLAIMER OF CONSEQUENTIAL DAMAGES In no event shall Company or any parties, organizations or entities associated with the corporate brand name us or otherwise, mentioned at this website be liable for any damages whatsoever (including, without limitations, incidental and consequential damages, lost profits, or damage to computer hardware or loss of data information or business interruption) resulting from the use or inability to use the website and the website material, whether based on warranty, contract, tort, or any other legal theory, and whether or not, such organization or entities were advised of the possibility of such damages. </p>
+					</div>
+				</div>
+				<div class="row d-flex justify-content-start border p-4 my-2  wow fadeInUp" data-wow-delay="0.1s">
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<h3 class="mb-4 ">Cancellation Policy</h3>
+						<div class="mb-3">
+							<h5 class="mb-2">Cancellations and Returning an Order</h5>
+							<p class="fw-4 fs-6"> Any non-manufacturing defects and damages post receiving a delivery are not valid for returns or replacements. Customized and made-to-order furniture pieces, purchased from MagickHome, cannot be returned or exchanged.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-2">Warranty</h5>
+							<p class="fw-4 fs-6"> MagickHome modular furniture comes with a lifetime warranty ( lifetime warranty refers to the life of the product which is 20 years) with specific details would be detailed out in the product document which would be given to you at the time of the handover of the products post installation.</p>
+						</div>
+						<div class="mb-3">
+							<h5 class="mb-3">Terms & Conditions of Warranty</h5>
+							<ul>
+								<li class="fw-4 pb-1 fs-6">The warranty is applicable only to modular furniture made and installed by MagickHome which specifically carries the warranty.</li>
+								<li class="fw-4 pb-1 fs-6">A valid proof of purchase or warranty card must be shown to avail the warranty.</li>
+								<li class="fw-4 pb-1 fs-6">Upon approval of warranty claim, the product will be repaired or replaced with the same or comparable product with a value not higher than the price of the original product purchased.</li>
+								<li class="fw-4 pb-1 fs-6">Due to material and finish variation, the replaced product may not be an exact replica of the installed product and there may be some variation due to batch differences in laminate, paint, veneer or any other used material.</li>
+								<li class="fw-4 pb-1 fs-6">In the event that repair work has been done to a product without any authorization from MagickHome, the product’s warranty coverage is automatically void.</li>
+								<li class="fw-4 pb-1 fs-6">All modular furniture does not automatically come with a 10-year warranty, products with a 10-year warranty will be specifically mentioned as such.</li>
+								<li class="fw-4 pb-1 fs-6">Warranty terms and conditions are fixed, non-negotiable, non-transferable and only benefits the original purchasers of the product.</li>
+							</ul>
+						</div>
+						<div class="mb-1">
+							<h5 class="mb-3">This warranty ceases to be applicable</h5>
+							<ul>
+								<li class="small fw-4 pb-1 fs-6">To products or furniture that have been stored or assembled incorrectly, used inappropriately, abused, altered, misused, or cleaned with wrong methods of cleaning or cleaning products or material.</li>
+								<li class="fw-4 pb-1 fs-6">Unusual wear and tear, scratches, cuts or damage caused by impacts or accidents or by abnormal or unintended use of the product or furniture.</li>
+								<li class="fw-4 pb-1 fs-6">If products have been placed in a humid environment or if the products have been used for non-domestic purposes or outdoors (unless otherwise stated).</li>
+								<li class="fw-4 pb-1 fs-6">To consequential or incidental damages.</li>
+								<li class="fw-4 pb-1 fs-6">The warranty is not absolute and is applicable only on the modular woodwork.</li>
+								<li class="fw-4 pb-1 fs-6">Our quality control teams decision on warranty validity or damage is final and binding on the purchaser.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<!-- // footer section -->
+	<div class="section-footer pt-5 pb-2 bg-dark" id="">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> The Company </h3>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/about" class="text-footer">About MagickHome </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/blogs" class="text-footer">Blog </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/how-it-works" class="text-footer">How it Works </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/privacy-policy" class="text-footer">Privacy Policy </a></p>
+				</div>
+				<div class="col-xl-2 col-lg-2 col-md-2 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> Design Ideas </h3>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/modular-kitchen-designs" class="text-footer">Kitchen</a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/modular-wardrobe-designs" class="text-footer">Wardrobe</a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/living-room" class="text-footer">Living Room </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/bedroom" class="text-footer">Bed Room </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/dining-room" class="text-footer">Dining Room </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/balcony" class="text-footer">Balcony</a></p>
+				</div>
+				<div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> Need Help? </h3>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/contact" class="text-footer">Contact Us </a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/quick-quote" class="text-footer">Quick Quote</a></p>
+					<p class="mb-3"><a href="https://www.magickhome.com/india/appoinment-booking" class="text-footer">Appointment Booking</a></p>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 mb-3">
+					<h3 class="footer-title"> Office Address</h3>
+					<p class="mb-2 fw-6 text-white"> MagickHome </p>
+					<p class="mb-2 text-footer"> IndiQube Viceroy, Sardar Patel Road, Near Rajbhavan, Little Mount, Guindy, Chennai, Tamil Nadu, India. 600 032. </p>
+					<p class="mt-4"> <img src="https://www.magickhome.com/india/assets/img/footer-phone-icon.svg" class="img-fluid px-2 text-primary" /> <a href="tel:18002703068" class="text-footer"> 1800 270 3068 </a> </p>
+					<p class="mt-1"> <img src="https://www.magickhome.com/india/assets/img/footer-email-icon.svg" class="img-fluid px-2" /> <a href="https://www.magickhome.com/cdn-cgi/l/email-protection#ff8b9e93948b908a8cbf929e98969c949790929ad19c9092c5" class="text-footer"> <span class="__cf_email__" data-cfemail="0c786d60677863797f4c616d6b656f6764636169226f6361">[email&#160;protected]</span> </a> </p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- footer section // -->
+	<!-- // copyright section -->
+	<div class="section-copyright bg-dark">
+		<div class="container">
+			<div class="row pt-4">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 py-2">
+					<p class="fs-7 mb-0 text-light1">Copyright @ 2024 All Rights Reserved by MagickHome. </p>
+				</div>
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 py-2">
+					<p class="align-right-text">
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://www.facebook.com/people/MagickHome-India/100092270903175/"> <i class="fa-brands fa-facebook"></i> </a>
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://www.instagram.com/magickhome_india/"> <i class="fa-brands fa-instagram"></i></a>
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://www.youtube.com/@MagickHome_India"> <i class="fa-brands fa-youtube"></i></a>
+						<a class="fs-5 text-footer mx-2" target="_blank" href="https://in.linkedin.com/company/magickhome-india"> <i class="fa-brands fa-linkedin"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- // back-to-top section
+	<a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa-solid fa-caret-up"></i></a> 
+	<p class="icon-bar-social text-center"><a href="#" class="whatsapp" title="whatsapp"><img src="assets/img/whatsapp.png" width="60" height="60" class="icon-whatsapp"></a></p>-->
+
+	<!-- // modal poup youtube video play -->
+
+
+	<!-- <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content p-0">
+				<div class="modal-header">
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body p-0">
+					<iframe width="100%" height="350" src="https://www.youtube-nocookie.com/embed/7oipGXpjhHQ?si=hoWMf29AiGsz4fhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+	</div> -->
+
+	<script data-cfasync="false" src="https://www.magickhome.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.google.com/recaptcha/enterprise.js?render=6LfXd4kpAAAAAJk1rFom-E2DZ9r1HtAI8siwhxnZ"></script>				
+		
+		<!-- JavaScript Libraries -->
+		<script src="https://www.magickhome.com/india/assets/js/jquery.min.js"></script>
+		<script src="https://www.magickhome.com/india/assets/js/theme.min.js"></script>
+		<script src="https://www.magickhome.com/india/assets/js/wow.min.js"></script> 
+		<script src="https://www.magickhome.com/india/assets/js/owl.carousel.min.js"></script>
+		<script src="https://www.magickhome.com/india/assets/js/main.js"></script>
+	 
+	 
+		
+			<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fe908b62bad7f73',t:'MTczNjMwNjI0MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
